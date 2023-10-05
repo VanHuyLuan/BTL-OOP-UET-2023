@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="demojavafx:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/demojavafx_jar</output-path>
+    <root id="archive" name="demojavafx.jar">
+      <element id="module-output" name="demojavafx" />
+      <element id="extracted-dir" path="$JavaFX21$/javafx-swt.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$JavaFX21$/javafx.web.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$JavaFX21$/javafx.base.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$JavaFX21$/javafx.fxml.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$JavaFX21$/javafx.media.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$JavaFX21$/javafx.swing.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$JavaFX21$/javafx.controls.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$JavaFX21$/javafx.graphics.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
